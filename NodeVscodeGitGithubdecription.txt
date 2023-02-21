@@ -1,0 +1,34 @@
+what is Node?
+Node.js is a cross-platform, open-source server environment that can run on Windows, Linux, Unix, macOS, and
+ more. Node.js is a back-end JavaScript runtime environment.
+        initial release - 29 may 2009
+
+
+
+ whta is Vs code?
+ Visual Studio Code, also commonly referred to as VS Code, is a source-code editor made by Microsoft with
+ the Electron Framework, for Windows, Linux and macOS.
+        1st announced - 29 apr 2015
+        MIT License - 18 th november 2015 release.
+        
+
+
+ what is Git?
+ Git (/ɡɪt/)[8] is a distributed version control system that tracks changes in any set of computer files,
+  usually used for coordinating work among programmers collaboratively developing source code during 
+  software development. 
+  Git authored by - Linus Torvards in 2005
+
+
+  what is Git HUb?
+  GitHub, Inc. (/ˈɡɪthʌb/[a]) is an Internet hosting service for software development and version control 
+  using Git. It provides the distributed version control of Git plus access control, bug tracking, software
+   feature requests, task management,
+   #founded- 8 feb 2008
+   #founders -  	
+                Tom Preston-Werner
+                Chris Wanstrath
+                P. J. Hyett
+CEO - Thomas Dohmke
+
+

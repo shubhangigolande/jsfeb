@@ -66,7 +66,7 @@ for(let [k,v] of mapA.entries()){
     console.log(k,v)
 }
 let mapB = new Map()
-mapB.set(1,"teser")
+mapB.set(1,"tester")
 mapB.set(true,"can drive")
 mapB.set("name","chinmay deshpande")
 console.log(mapB)
