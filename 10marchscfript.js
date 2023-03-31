@@ -108,7 +108,7 @@ let person = {
     fn: "mayuri",
     ln: "katwe"
 }
-function objPara(obj) {
+function objPara(obj) { 
     //let obj=person
     obj.fn = "vaibhav"
     return obj
